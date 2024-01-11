@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="login_page">Login Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="rokibul_islam">Rokibul Islam</string>
+</resources>
