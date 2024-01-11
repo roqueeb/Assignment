@@ -1,2 +1,2 @@
 # Assignment
-This repository is created with a view to submitting the assignments.
+This is an android project using Java where switching from an activity to another activity is implemented.
