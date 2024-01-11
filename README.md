@@ -1,4 +1,4 @@
-# Assignment
+# Assignment01
 This is an android project using Java where switching from an activity to another activity is implemented.
 How to run this project:
 1. First create a project in android studio.
